@@ -53,10 +53,4 @@
   <img src="https://komarev.com/ghpvc/?username=p-a-m-i-e&color=blue&style=flat-square" alt="Contador de Visitas" />
 </p>
 
-## 📫 Entre em Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/SEU_ID_DE_USUÁRIO)
-
 </div>
