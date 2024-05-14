@@ -1,6 +1,6 @@
 <div align="center">
   
- <h3> # Olá, sou a Pamela :) </h3>
+ <h3> Olá, sou a Pamela :) </h3>
   </div>
 
   [English](./README_ENG.md)  |  [Español](./README_ESP.md)
