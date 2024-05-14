@@ -1,5 +1,5 @@
 <div align="center">
- <h3> # Hi, i'm Pamela :) </h3>
+ <h3> Hi, i'm Pamela :) </h3>
 </div>
 
 [Português](./README.md) | [Español](./README_ES.md)
