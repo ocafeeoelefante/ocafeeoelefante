@@ -50,14 +50,14 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p-a-m-i-e&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-a-m-i-e&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o-cafe-e-o-elefante&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-cafe-e-o-elefante&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 ## 🌟 Contador de Visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=p-a-m-i-e&color=blue&style=flat-square" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=blue&style=flat-square" alt="Contador de Visitas" />
 </p>
 
 </div>
