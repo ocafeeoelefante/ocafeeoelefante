@@ -46,14 +46,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p-a-m-i-e&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-a-m-i-e&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o-cafe-e-o-elefante&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-cafe-e-o-elefante&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🌟 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=p-a-m-i-e&color=blue&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=blue&style=flat-square" alt="Visitor Counter" />
 </p>
 
 </div>
