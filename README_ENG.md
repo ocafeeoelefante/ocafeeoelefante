@@ -1,59 +1,58 @@
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+
 <div align="center">
- <h3> Hi, i'm Pamela :) </h3>
+  <h3 style="color:#FF69B4; font-family:Cursive;">Hello, I am Pamela 🧚🏾‍♀️</h3>
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=ff69b4&style=flat-square" alt="Visitor Counter" />
+  </p>
 </div>
 
-[Português](./README.md) | [Español](./README_ES.md)
+<p align="center"> 
+  <samp>
+    「 I dream of the day when technology will be used only for good 」
+    <br>
+    <br>
+  </samp>
+</p>
+<br>
+<br> 
+  
+[Readme in Portuguese](./README.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)
 
-💼 Resident in Information technology and Communication <br>
-📚 Postgraduate student in Software engineering <br>
-🎓 Technologist in Systems analysis and development <br>
-📚 Learning: TypeScript, React native and Angular
+<br>
+<br>
 
+🦩 Information and Communication Technology Resident <br>
+🩷 Postgraduate student in Software Engineering <br>
+🩰 Technologist in Systems Analysis and Development <br>
+🧠 Learning: `Typescript` `React Native` `Angular` `Python`
+
+<br> 
 
 <div align="center">
 
-## 🚀 Technologies and Tools
+## 🫧 Technologies and Tools
 
-### Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat&logo=framer&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-FF69B4?style=flat&logo=apachenetbeanside&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-FF69B4?style=flat&logo=angular&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-FF69B4?style=flat&logo=css3&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-FF69B4?style=flat&logo=cryptography&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-FF69B4?style=flat&logo=devops&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-FF69B4?style=flat&logo=docker&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-FF69B4?style=flat&logo=eclipse&logoColor=white) ![Express](https://img.shields.io/badge/Express-FF69B4?style=flat&logo=express&logoColor=white) ![Expo](https://img.shields.io/badge/-Expo-FF69B4?style=flat&logo=expo&logoColor=white) 
+![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-FF69B4?style=flat&logo=framer&logoColor=white) ![Git](https://img.shields.io/badge/-Git-FF69B4?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-FF69B4?style=flat&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-FF69B4?style=flat&logo=html5&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF69B4?style=flat&logo=intellij-idea&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-FF69B4?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FF69B4?style=flat&logo=jupyter&logoColor=white) 
+![Laravel](https://img.shields.io/badge/-Laravel-FF69B4?style=flat&logo=laravel&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FF69B4?style=flat&logo=linux&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-FF69B4?style=flat&logo=mariadb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-FF69B4?style=flat&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-FF69B4?style=flat&logo=node.js&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-FF69B4?style=flat&logo=php&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-FF69B4?style=flat&logo=pycharm&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FF69B4?style=flat&logo=python&logoColor=white) 
+![React.js](https://img.shields.io/badge/-React-FF69B4?style=flat&logo=react&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-FF69B4?style=flat&logo=spring-boot&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-FF69B4?style=flat&logo=typescript&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-FF69B4?style=flat&logo=visual%20studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-FF69B4?style=flat&logo=visual-studio-code&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-FF69B4?style=flat&logo=vue.js&logoColor=white)
 
-### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+<br> 
 
-### Tools and Operating Systems
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
-## 📊 GitHub Stats
+## 🪱 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o-cafe-e-o-elefante&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-cafe-e-o-elefante&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o-cafe-e-o-elefante&show_icons=true&bg_color=ffffff&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4&border_color=ff69b4" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-cafe-e-o-elefante&layout=compact&bg_color=ffffff&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4&border_color=ff69b4" alt="Top Languages" />
 </p>
 
-## 🌟 Visitor Counter
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=blue&style=flat-square" alt="Visitor Counter" />
-</p>
 
 </div>
