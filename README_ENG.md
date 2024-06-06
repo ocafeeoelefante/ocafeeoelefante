@@ -17,7 +17,7 @@
 <br>
 <br> 
   
-[Readme in Portuguese](./README.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)
+[Readme em Português](./README.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md) 
 
 <br>
 <br>
@@ -33,7 +33,7 @@
 
 ## 🫧 Technologies and Tools
 
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-FF69B4?style=flat&logo=apachenetbeanside&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-FF69B4?style=flat&logo=angular&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-FF69B4?style=flat&logo=css3&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-FF69B4?style=flat&logo=cryptography&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-FF69B4?style=flat&logo=devops&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-FF69B4?style=flat&logo=docker&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-FF69B4?style=flat&logo=eclipse&logoColor=white) ![Express](https://img.shields.io/badge/Express-FF69B4?style=flat&logo=express&logoColor=white) ![Expo](https://img.shields.io/badge/-Expo-FF69B4?style=flat&logo=expo&logoColor=white) 
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-FF69B4?style=flat&logo=apachenetbeanside&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-FF69B4?style=flat&logo=angular&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-FF69B4?style=flat&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-FF69B4?style=flat&logo=docker&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-FF69B4?style=flat&logo=eclipse&logoColor=white) ![Express](https://img.shields.io/badge/Express-FF69B4?style=flat&logo=express&logoColor=white) ![Expo](https://img.shields.io/badge/-Expo-FF69B4?style=flat&logo=expo&logoColor=white) 
 ![Figma](https://img.shields.io/badge/-Figma-FF69B4?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-FF69B4?style=flat&logo=framer&logoColor=white) ![Git](https://img.shields.io/badge/-Git-FF69B4?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-FF69B4?style=flat&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-FF69B4?style=flat&logo=html5&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF69B4?style=flat&logo=intellij-idea&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-FF69B4?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FF69B4?style=flat&logo=javascript&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FF69B4?style=flat&logo=jupyter&logoColor=white) 
@@ -42,6 +42,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-FF69B4?style=flat&logo=php&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-FF69B4?style=flat&logo=pycharm&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FF69B4?style=flat&logo=python&logoColor=white) 
 ![React.js](https://img.shields.io/badge/-React-FF69B4?style=flat&logo=react&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-FF69B4?style=flat&logo=spring-boot&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-FF69B4?style=flat&logo=typescript&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-FF69B4?style=flat&logo=visual%20studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-FF69B4?style=flat&logo=visual-studio-code&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-FF69B4?style=flat&logo=vue.js&logoColor=white)
+
 
 <br> 
 
