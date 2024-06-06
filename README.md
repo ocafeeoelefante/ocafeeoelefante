@@ -19,7 +19,7 @@
 <br>
 <br> 
 
-[Readme in English](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
+[Readme in english](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
 
 🦩 Residente de Tecnologia da informação e Comunicação <br>
 🩷 Pós-graduanda em Engenharia de software <br>
