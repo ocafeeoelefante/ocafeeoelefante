@@ -7,7 +7,19 @@
   </p>
 </div>
 
-[English](./README_ENG.md)  |  [Español](./README_ESP.md)
+<p align="center"> 
+  <samp>
+    「 Sonho com o dia que a tecnologia será usada somente para o bem 」
+    <br>
+    <br>
+  </samp>
+  
+</p>
+<br>
+<br>
+<br> 
+
+[Readme in English](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
 
 🦩 Residente de Tecnologia da informação e Comunicação <br>
 🩷 Pós-graduanda em Engenharia de software <br>
