@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
 <div align="center">
-  <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou a Pamela 🧚🏾‍♀️</h3>
+  <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou a Pamie Cruz. 🧚🏾‍♀️</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=ff69b4&style=flat-square" alt="Contador de Visitas" />
   </p>
@@ -21,7 +21,8 @@
 
 [Readme in english](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
 
-🦩 Residente de Tecnologia da informação e Comunicação <br>
+🦩 Desenvolvedora full stack atualmente trampando com mobile
+ <br>
 🩷 Pós-graduanda em Engenharia de software <br>
 🩰 Tecnóloga em Análise e desenvolvimento de sistemas <br>
 🧠 Aprendendo: `Typescript` `React native` `Angular` `Python`
