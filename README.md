@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
 <div align="center">
-  <h3 style="color:#BE5AD7; font-family:Cursive;">Olá, sou a Pamie Cruz. 🧚🏾‍♀️</h3>
+  <h3 style="color:#BE5AD7; font-family:Cursive;">Olá, sou a Pamie. 🧚🏾‍♀️</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=BE5AD7&style=flat-square" alt="Contador de Visitas" />
   </p>
@@ -25,7 +25,7 @@
  <br>
 🩷 Pós-graduanda em Engenharia de software <br>
 🩰 Tecnóloga em Análise e desenvolvimento de sistemas <br>
-🧠 Aprendendo: `Typescript` `React native` `Angular` `Python`
+🧠 Aprendendo: `Typescript` `React native` `Rust` `Python`
 
 <br> 
 
