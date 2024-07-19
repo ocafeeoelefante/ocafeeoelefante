@@ -25,7 +25,9 @@
 🦩 Full stack developer currently working with mobile development<br>
 🩷 Postgraduate student in Software Engineering <br>
 🩰 Technologist in Systems Analysis and Development <br>
-🧠 Learning: `Typescript` `React native` `Rust` `Python`
+👛 Currently working with `React Native` + `TypeScript`
+🧠 Learning: `Rust` & `Python`
+
 
 <br> 
 
