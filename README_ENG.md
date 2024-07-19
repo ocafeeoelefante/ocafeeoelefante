@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
 <div align="center">
-  <h3 style="color:#FF69B4; font-family:Cursive;">Hello, I am Pamie Cruz. 🧚🏾‍♀️</h3>
+  <h3 style="color:#FF69B4; font-family:Cursive;">Hello, I am Pamie. 🧚🏾‍♀️</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=ff69b4&style=flat-square" alt="Visitor Counter" />
   </p>
@@ -25,7 +25,7 @@
 🦩 Full stack developer currently working with mobile development<br>
 🩷 Postgraduate student in Software Engineering <br>
 🩰 Technologist in Systems Analysis and Development <br>
-🧠 Learning: `Typescript` `React Native` `Angular` `Python`
+🧠 Learning: `Typescript` `React native` `Rust` `Python`
 
 <br> 
 
