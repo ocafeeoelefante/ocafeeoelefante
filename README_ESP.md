@@ -26,7 +26,7 @@
  <br>
 🩷 Estudiante de posgrado en Ingeniería de Software <br>
 🩰 Tecnóloga en Análisis y Desarrollo de Sistemas <br>
-👛 Actualmente trabajando con `React Native` + `TypeScript`
+👛 Actualmente trabajando con `React Native` + `TypeScript` <br>
 🧠 Aprendiendo: `Rust` y `Python`
 
 <br> 
