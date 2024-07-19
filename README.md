@@ -25,7 +25,7 @@
  <br>
 🩷 Pós-graduanda em Engenharia de software <br>
 🩰 Tecnóloga em Análise e desenvolvimento de sistemas <br>
-👛 Atualmente trabalhando com `React native` + `Typescript` 
+👛 Atualmente trabalhando com `React native` + `Typescript` <br>
 🧠 Aprendendo: `Rust` & `Python`
 
 <br> 
