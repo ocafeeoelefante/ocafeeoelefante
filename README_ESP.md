@@ -22,7 +22,7 @@
 <br>
 <br>
 
-🦩 Desarrolladora full stack actualmente trabajando con mobile
+🦩 Residente en Tecnología de la Información y Comunicación
  <br>
 🩷 Estudiante de posgrado en Ingeniería de Software <br>
 🩰 Tecnóloga en Análisis y Desarrollo de Sistemas <br>
