@@ -21,7 +21,7 @@
 
 [Readme in english](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
 
-🦩 Desenvolvedora full stack atualmente trampando com mobile
+🦩 Residente em Tecnologia da Informação e Comunicação
  <br>
 🩷 Pós-graduanda em Engenharia de software <br>
 🩰 Tecnóloga em Análise e desenvolvimento de sistemas <br>
