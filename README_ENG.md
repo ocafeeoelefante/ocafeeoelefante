@@ -22,7 +22,8 @@
 <br>
 <br>
 
-🦩 Full stack developer currently working with mobile development<br>
+🦩 ICT Resident
+<br>
 🩷 Postgraduate student in Software Engineering <br>
 🩰 Technologist in Systems Analysis and Development <br>
 👛 Currently working with `React Native` + `TypeScript` <br>
