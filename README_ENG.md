@@ -29,7 +29,7 @@
 👛 Currently working with `React Native` + `TypeScript` <br>
 🧠 Learning: `Rust` & `Python`
 
-
+<!--
 <br> 
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 <br> 
 
-## 🪱 Statistics
+##  Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=o-cafe-e-o-elefante&show_icons=true&bg_color=ffffff&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4&border_color=ff69b4" alt="GitHub Stats" />
@@ -58,5 +58,6 @@
 
 <br>
 
+-->
 
 </div>
