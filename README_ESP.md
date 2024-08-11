@@ -28,7 +28,7 @@
 🩰 Tecnóloga en Análisis y Desarrollo de Sistemas <br>
 👛 Actualmente trabajando con `React Native` + `TypeScript` <br>
 🧠 Aprendiendo: `Rust` y `Python`
-
+<!--
 <br> 
 
 <div align="center">
@@ -56,5 +56,5 @@
 
 <br>
 
-
+-->
 </div>
