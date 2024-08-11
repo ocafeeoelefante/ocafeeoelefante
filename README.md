@@ -31,9 +31,7 @@
 <br> 
 
 <div align="center">
-
-## 🫧 Tecnologias e Ferramentas
-
+<!--
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-BE5AD7?style=flat&logo=apachenetbeanside&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-BE5AD7?style=flat&logo=angular&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-BE5AD7?style=flat&logo=css3&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-BE5AD7?style=flat&logo=cryptography&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-BE5AD7?style=flat&logo=devops&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-BE5AD7?style=flat&logo=docker&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-BE5AD7?style=flat&logo=eclipse&logoColor=white) ![Express](https://img.shields.io/badge/Express-BE5AD7?style=flat&logo=express&logoColor=white) ![Expo](https://img.shields.io/badge/-Expo-BE5AD7?style=flat&logo=expo&logoColor=white) 
 ![Figma](https://img.shields.io/badge/-Figma-BE5AD7?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-BE5AD7?style=flat&logo=framer&logoColor=white) ![Git](https://img.shields.io/badge/-Git-BE5AD7?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-BE5AD7?style=flat&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-BE5AD7?style=flat&logo=html5&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-BE5AD7?style=flat&logo=intellij-idea&logoColor=white) 
@@ -44,10 +42,10 @@
 ![React.js](https://img.shields.io/badge/-React-BE5AD7?style=flat&logo=react&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-BE5AD7?style=flat&logo=spring-boot&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-BE5AD7?style=flat&logo=typescript&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-BE5AD7?style=flat&logo=visual%20studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-BE5AD7?style=flat&logo=visual-studio-code&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-BE5AD7?style=flat&logo=vue.js&logoColor=white)
 
-## 🔭 Estatísticas
-
+<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o-cafe-e-o-elefante&show_icons=true&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-cafe-e-o-elefante&layout=compact&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Linguagens mais usadas" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ocafeeoelefante&show_icons=true&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocafeeoelefante&layout=compact&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Linguagens mais usadas" />
+</p> -->
+
 </div>
