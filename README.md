@@ -21,12 +21,12 @@
 
 [Readme in english](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
 
-🦩 Residente em Tecnologia da Informação e Comunicação
+🦩 Formada em Residência em Tecnologia da Informação e Comunicação
  <br>
 🩷 Pós-graduanda em Engenharia de software <br>
 🩰 Tecnóloga em Análise e desenvolvimento de sistemas <br>
-👛 Atualmente trabalhando com `React native` + `Typescript` <br>
-🧠 Aprendendo: `Rust` & `Python`
+👛 XP em `React native` + `Typescript` <br>
+🧠 Aprendendo: `Rust`
 
 <br> 
 
