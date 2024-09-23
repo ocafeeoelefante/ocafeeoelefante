@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
 <div align="center">
-  <h3 style="color:#BE5AD7; font-family:Cursive;">Olá, sou a Pamie. 🧚🏾‍♀️</h3>
+  <h3> Olá, sou a Pamie. 🧚🏾‍♀️</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=BE5AD7&style=flat-square" alt="Contador de Visitas" />
   </p>
@@ -21,9 +21,9 @@
 
 [Readme in english](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
 
-🦩 Formada em Residência em Tecnologia da Informação e Comunicação
+🦩 Formada Residente em Tecnologia da Informação e Comunicação
  <br>
-🩷 Pós-graduanda em Engenharia de software <br>
+🌷 Pós-graduanda em Engenharia de software <br>
 🩰 Tecnóloga em Análise e desenvolvimento de sistemas <br>
 👛 XP em `React native` + `Typescript` <br>
 🧠 Aprendendo: `Rust`
@@ -47,5 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ocafeeoelefante&show_icons=true&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocafeeoelefante&layout=compact&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Linguagens mais usadas" />
 </p> -->
+
+![ocafeeoelefante's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocafeeoelefante&bg_color=EE82EE&title_color=FFFFFF&text_color=000000&hide_border=true&layout=compact)
 
 </div>
