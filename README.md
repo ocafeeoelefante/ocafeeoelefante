@@ -21,8 +21,7 @@
 
 [Readme in english](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
 
-🦩 Formada Residente em Tecnologia da Informação e Comunicação
- <br>
+
 🌷 Pós-graduanda em Engenharia de software <br>
 🩰 Tecnóloga em Análise e desenvolvimento de sistemas <br>
 👛 XP em `React native` + `Typescript` <br>
