@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ocafeeoelefante&show_icons=true&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocafeeoelefante&layout=compact&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Linguagens mais usadas" />
 </p> -->
-
+<!--
 ![legalmentetech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocafeeoelefante&bg_color=EE82EE&title_color=FFFFFF&text_color=000000&hide_border=true&layout=compact&langs_count=8)
 
 </div>
