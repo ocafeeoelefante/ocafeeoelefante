@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
 <div align="center">
-  <h3 style="color:#FF69B4; font-family:Cursive;">Hello, I am Pamie. 🧚🏾‍♀️</h3>
+  <h3 style="color:#FF69B4; font-family:Cursive;">Hello, I'm Pamela. 🧚🏾‍♀️</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=ff69b4&style=flat-square" alt="Visitor Counter" />
   </p>
@@ -22,12 +22,10 @@
 <br>
 <br>
 
-🦩 ICT Resident
-<br>
-🩷 Postgraduate student in Software Engineering <br>
-🩰 Technologist in Systems Analysis and Development <br>
-👛 Currently working with `React Native` + `TypeScript` <br>
-🧠 Learning: `Rust` & `Python`
+🌷 Full Stack Developer focused on Backend <br>
+🩰 Degree in Systems Analysis and Software Engineering, currently studying Law <br>
+👛 Currently working with `React Native` + `TypeScript` + `PHP` + `JAVA` + `PYTHON` <br>
+🧠 Learning: `Rust`
 
 <!--
 <br> 
