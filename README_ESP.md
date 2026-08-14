@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
 <div align="center">
-  <h3 style="color:#FF69B4; font-family:Cursive;">Hola, soy Pamie. 🧚🏾‍♀️</h3>
+  <h3 style="color:#FF69B4; font-family:Cursive;">Hola, soy Pamela. 🧚🏾‍♀️</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=o-cafe-e-o-elefante&color=ff69b4&style=flat-square" alt="Contador de Visitas" />
   </p>
@@ -21,16 +21,12 @@
 
 <br>
 <br>
+🌷 Desarrolladora Full Stack enfocada en Backend <br>
+🩰 Graduada en Análisis de Sistemas e Ingeniería de Software, actualmente estudiando Derecho <br>
+👛 Actualmente trabajando con React native + Typescript + PHP + JAVA <br>
+🧠 Aprendiendo: `Rust`
 
-🦩 Residente en Tecnología de la Información y Comunicación
- <br>
-🩷 Estudiante de posgrado en Ingeniería de Software <br>
-🩰 Tecnóloga en Análisis y Desarrollo de Sistemas <br>
-👛 Actualmente trabajando con `React Native` + `TypeScript` <br>
-🧠 Aprendiendo: `Rust` y `Python`
 <!--
-<br> 
-
 <div align="center">
 
 ## 🫧 Tecnologías y Herramientas
