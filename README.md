@@ -22,9 +22,9 @@
 [Readme in english](./README_ENG.md)   ㅤ♡ㅤ   [Readme en español](./README_ESP.md)  
 
 
-🌷 Pós-graduanda em Engenharia de software <br>
-🩰 Tecnóloga em Análise e desenvolvimento de sistemas <br>
-👛 XP em `React native` + `Typescript` <br>
+🌷Dev Full Stack com foco em backend <br>
+🩰 Formada em Análise de Sistemas e Engenharia de Software, atualmente cursando Direito <br>
+👛 XP em `React native` + `Typescript` + `PHP` + `JAVA` <br>
 🧠 Aprendendo: `Rust`
 
 <br> 
@@ -47,6 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocafeeoelefante&layout=compact&bg_color=ffffff&title_color=BE5AD7&text_color=BE5AD7&icon_color=BE5AD7&border_color=BE5AD7" alt="Linguagens mais usadas" />
 </p> -->
 
-![ocafeeoelefante's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocafeeoelefante&bg_color=EE82EE&title_color=FFFFFF&text_color=000000&hide_border=true&layout=compact&langs_count=8)
+![legalmentetech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocafeeoelefante&bg_color=EE82EE&title_color=FFFFFF&text_color=000000&hide_border=true&layout=compact&langs_count=8)
 
 </div>
